@@ -1,4 +1,4 @@
-﻿// ECE 411 - readme
+// ECE 411 - readme
 // ddenhart@pdx.edu
 // jerscott@pdx.edu
 // ccarmen@pdx.edu
@@ -131,7 +131,6 @@
 ---2014.11.06 jerscott---
    - Provided feedback for project schematic and board layout
 
-
 ---2014.11.07 cc---
    - Provided feedback for project schematic and board layout
    - Identified all the parts needed for our board on Digi-Key website and found new parts for the "package not available or not in stock" case
@@ -141,7 +140,6 @@
 ---2014.11.08 dd---
    - made part names readable on the board 
    - project schedule proposal
-
 
 ---2014.11.08 cc—--
    - Received all board components from Digi-key
@@ -156,3 +154,12 @@
      --updated dimension layer of board for better spacing of mounting holes
      --added teamname info to both tPlace and tSilk layers
      --png screenshots of final layout candidate?
+
+---2014.11.09 cc—--
+   - Created Project Schedule document from project schedule documents provided by each team member
+  
+---2014.11.10 dd---
+   - Reviewed and fitted the Project Schedule
+   
+---2014.11.15 dd---
+   - Added the color sensor uml activity view
